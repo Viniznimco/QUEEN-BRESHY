@@ -78,30 +78,30 @@ var randomItem = selectRandomItem(items);
                         let md = "DRAXEN-Ai~" + string_session;
                         let code = await sock.sendMessage(sock.user.id, { text: md });
                         let desc = `┏━━━━━━━━━━━━━━ 
-┃DRAXEN-Ai
+┃CHRIST-AI
 ┃𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒
 ┃𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 
 ┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 ✅🔥
 ┗━━━━━━━━━━━━━━━ 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ᴄʀᴇᴀᴛᴏʀ = 𖥘⚡ DRAXEN•••²⁴⁰² ⚡𖥘 
+ ★ || ᴄʀᴇᴀᴛᴏʀ = 𖥘⚡ CHRIST•••²⁴⁰² ⚡𖥘 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ᴏᴡɴᴇʀ = https://wa.me/255716945971 
+ ★ || ᴏᴡɴᴇʀ = https://wa.me/254750737434 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
  ★ || ᴡʜᴀᴛsᴀᴘᴘ = https://whatsapp.com/channel/0029Vb4vbKF6xCSMEFopxc10
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/dullar255/DRAXEN-Ai 
+ ★ || ʙᴏᴛ ʀᴇᴘᴏ = https://github.com/Viniznimco/CHRIST-AI 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
- ★ || ʏᴏᴜᴛᴜʙᴇ = https://youtube.com/@abdallahsalim-f5u?si=PPyQy2qogiXA-PCG 
+ ★ || ʏᴏᴜᴛᴜʙᴇ = https://youtube.com/@Viniziaz Nimco-f5u?si=PPyQy2qogiXA-PCG 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ DRAXEN Ai 🤎 `; 
+> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ CHRIST AI 🤎 `; 
                         await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
 externalAdReply: {
-title: "DRAXEN•••²⁴⁰²",
-thumbnailUrl: "https://files.catbox.moe/tmmvub.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb4vbKF6xCSMEFopxc10",
+title: "CHRIST•••²⁴⁰²",
+thumbnailUrl: "https://i.imgur.com/BvBbNOc.jpeg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
@@ -116,8 +116,8 @@ text: desc,
 contextInfo: {
 externalAdReply: {
 title: "DRAXEN•••²⁴⁰²",
-thumbnailUrl: "https://files.catbox.moe/tmmvub.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029Vb4vbKF6xCSMEFopxc10",
+thumbnailUrl: "https://i.imgur.com/BvBbNOc.jpeg",
+sourceUrl: "https://whatsapp.com/channel/0029Vb6jFwj89ine3b7qHB1y",
 mediaType: 2,
 renderLargerThumbnail: true,
 showAdAttribution: true
