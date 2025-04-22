@@ -105,8 +105,7 @@ renderLargerThumbnail: true
 {quoted:code })
                     } catch (e) {
                             let ddd = sock.sendMessage(sock.user.id, { text: e })                 
-                  let desc = `┏━━━━━━━━━━━━━━
-┏━━━━━━━━━━━━━━		  
+                  let desc = `┏━━━━━━━━━━━━━━		  
 ┃CHRIST-AI
 ┃𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐒
 ┃𝐒𝐔𝐂𝐂𝐄𝐒𝐒𝐅𝐔𝐋𝐋𝐘 
