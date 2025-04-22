@@ -1,8 +1,8 @@
 {
-    "name": "DRAXEN-Ai.PAIR",
-    "description": "I'm Web Session Generator by DRAXEN 🤎",
-    "logo": "https://files.catbox.moe/tmmvub.jpg",
-    "repository": "https://github.com/dullar255/DRAXEN-Ai.PAIR",
+    "name": "CHRIST-AI.PAIR",
+    "description": "I'm Web Session Generator by CHRISTY 🙏",
+    "logo": "https://i.imgur.com/BvBbNOc.jpeg",
+    "repository": "https://github.com/Viniznimco/QUEEN-BRESHY",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
